@@ -24,7 +24,7 @@ The simple Jest test in the [web3.test.js](web3.test.js) file is
 
 The following is the error I get using a Mac OS X `10.12.6`, node `v6.10.3` and npm `3.10.10`
 ```
-/Users/nicholasaddison/.nvm/versions/node/v6.10.3/bin/node /Users/nicholasaddison/Documents/workspaces/web3-jest/node_modules/jest/bin/jest --config "{\"testRegex\":\"(/__tests__/.*|(\\.|/)(test|spec))\\.(jsx?|tsx?)$\",\"moduleFileExtensions\":[\"ts\",\"tsx\",\"js\",\"jsx\",\"json\"],\"rootDir\":\"/Users/nicholasaddison/Documents/workspaces/web3-jest\",\"transformIgnorePatterns\":[\"/node_modules/\",\"^/Applications/WebStorm.app/Contents/plugins/JavaScriptLanguage/helpers\"],\"unmockedModulePathPatterns\":[\"^/Applications/WebStorm.app/Contents/plugins/JavaScriptLanguage/helpers\"]}" --colors --setupTestFrameworkScriptFile /Applications/WebStorm.app/Contents/plugins/JavaScriptLanguage/helpers/jest-intellij/lib/jest-intellij-jasmine.js
+/Users/nick/.nvm/versions/node/v6.10.3/bin/node /Users/nick/Documents/workspaces/web3-jest/node_modules/jest/bin/jest --config "{\"testRegex\":\"(/__tests__/.*|(\\.|/)(test|spec))\\.(jsx?|tsx?)$\",\"moduleFileExtensions\":[\"ts\",\"tsx\",\"js\",\"jsx\",\"json\"],\"rootDir\":\"/Users/nick/Documents/workspaces/web3-jest\",\"transformIgnorePatterns\":[\"/node_modules/\",\"^/Applications/WebStorm.app/Contents/plugins/JavaScriptLanguage/helpers\"],\"unmockedModulePathPatterns\":[\"^/Applications/WebStorm.app/Contents/plugins/JavaScriptLanguage/helpers\"]}" --colors --setupTestFrameworkScriptFile /Applications/WebStorm.app/Contents/plugins/JavaScriptLanguage/helpers/jest-intellij/lib/jest-intellij-jasmine.js
  FAIL  ./web3.test.js
   ● Test suite failed to run
 
