@@ -24,7 +24,7 @@ The simple Jest test in the [web3.test.js](web3.test.js) file is
     
     test("Web3 version", function()
     {
-        expect(Web3.version).toEqual("1.0.0");
+        expect(Web3.version).toEqual("1.0.0-beta.23");
     });
 ```
 
